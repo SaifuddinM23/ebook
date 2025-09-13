@@ -1,0 +1,71 @@
+.book1{
+    background: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+    background-repeat: no repeat;
+    background-attachment: fixed;
+    text-align: center;
+    height: 100px;
+    border:black 2px solid;
+    
+}
+.sidebar{
+    width: 20%;
+    float: left;
+    height: 30%;
+    border:black 2px solid;
+    margin-top: 15px;
+    margin-left: 4px;
+    border-radius:10px;
+    font-size: x-large;
+    background-color:black;
+    color:white;
+    position : sticky;
+    top:0px;
+
+   
+}
+.sidebar1{
+    width: 20%;
+    float: left;
+    height: 35%;
+    border:black 2px solid;
+    margin-top: 15px;
+    margin-left: 4px;
+    border-radius:10px;
+    font-size: x-large;
+    position : sticky;
+    top:0px;
+    color: white;
+    background-color: black;
+
+   
+}
+.sidebar2{
+    width: 20%;
+    float: left;
+    height: 30%;
+    border:black 2px solid;
+    margin-top: 15px;
+    margin-left: 4px;
+    border-radius:10px;
+    font-size: x-large;
+    position : sticky;
+    top:0px;
+    color: white;
+    background-color: black; 
+}
+.sidebar3{
+    width: 20%;
+    float: left;
+    height: 30%;
+    border:black 2px solid;
+    margin-top: 15px;
+    margin-left: 4px;
+    border-radius:10px;
+    font-size: x-large;
+    position : sticky;
+    top:0px;
+    color: white;
+    background-color: black;
+}
+
+
